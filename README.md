@@ -1,2 +1,3 @@
 # express-node
-Diving in Node/Express 
+Diving in Node/Express.
+Learning these to cover my prerequsities for my WEB 3.0 Cohort...
